@@ -1,4 +1,4 @@
-# Mystic
+# MYSTIC
 
 ### Bet on your gaming skills to earn
 
