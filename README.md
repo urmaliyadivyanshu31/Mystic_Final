@@ -6,6 +6,16 @@
 
 Welcome to Mystic, a groundbreaking gaming platform designed to reimagine the gaming experience by merging skill-based gaming and earning opportunities. Our mission is to empower gamers by creating a dynamic ecosystem where their expertise directly translates into rewarding experiences.
 
+## Itegration with Monaverse 
+
+This project is especially aimed to integrate Monaverse into the existing project and we got the spaces as for now.
+
+You can check the spaces as for now here :-
+
+https://monaverse.com/spaces/mystic-nature
+
+With this starts a very journey to empower journey to integrate metaverse and gaming
+
 ## Stored Files on IPFS
 
 The files associated with this project are stored on IPFS using the following URI:
