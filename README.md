@@ -1,10 +1,10 @@
-# MYSTIC
+# MIST
 
 ### Bet on your gaming skills to earn
 
 ## Overview
 
-Welcome to Mystic, a groundbreaking gaming platform designed to reimagine the gaming experience by merging skill-based gaming and earning opportunities. Our mission is to empower gamers by creating a dynamic ecosystem where their expertise directly translates into rewarding experiences.
+Welcome to MIST, a groundbreaking gaming platform designed to reimagine the gaming experience by merging skill-based gaming and earning opportunities. Our mission is to empower gamers by creating a dynamic ecosystem where their expertise directly translates into rewarding experiences.
 
 ## Itegration with Monaverse 
 
@@ -35,7 +35,7 @@ In the current gaming landscape, several challenges hinder the gaming experience
 
 ## Our Solution
 
-Mystic emerges as an innovative solution to these challenges by introducing a novel approach to gaming:
+MIST emerges as an innovative solution to these challenges by introducing a novel approach to gaming:
 
 - **Smart Contract Liquidity Pools**: Gamers can stake liquidity pools for online P2P tournaments, allowing up to 10 players to engage in competitive gaming scenarios.
 - **Web2 Gamer Empowerment**: We provide fair earning opportunities for web2 gamers through various tournaments of web2 games, broadening the scope of potential earnings.
@@ -59,7 +59,7 @@ Here's how our tournament system works:
 
 ## Like a Web3 Betting DApp, but Yourself
 
-Mystic offers an experience akin to a web3 betting DApp, but with a unique twist: users bet on their own gaming prowess, competing in tournaments for rewarding experiences and tangible prizes.
+MIST offers an experience akin to a web3 betting DApp, but with a unique twist: users bet on their own gaming prowess, competing in tournaments for rewarding experiences and tangible prizes.
 
 ## License
 
@@ -71,6 +71,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-This README comprehensively introduces Mystic, articulating its purpose, addressing the prevalent issues in the gaming industry, outlining the proposed solution, key functionalities, tournament mechanics, the significance of investing in web3 gaming now, and the project's goals. Feel free to explore and contribute to this project, making gaming an engaging and rewarding experience for all.
+This README comprehensively introduces MIST, articulating its purpose, addressing the prevalent issues in the gaming industry, outlining the proposed solution, key functionalities, tournament mechanics, the significance of investing in web3 gaming now, and the project's goals. Feel free to explore and contribute to this project, making gaming an engaging and rewarding experience for all.
 
 
