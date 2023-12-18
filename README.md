@@ -20,10 +20,10 @@ With this starts a very journey to empower journey to integrate metaverse and ga
 
 The files associated with this project are stored on IPFS using the following URI:
 
-- IPFS URI: `ipfs://QmV6Uwtx15jN1RtXp41FBsHaa6mJeuPHGUbgbefgNFBM7c`
-- [View Files on IPFS](https://bafybeidlhbfbxvcdxeb5gz4pqcesbvyapmm42rjmdo36uhxpygo2g5zvly.ipfs.cf-ipfs.com/)
+- IPFS URI: 
+- [View Files on IPFS]()
 
-You can open [this link](https://bafybeidlhbfbxvcdxeb5gz4pqcesbvyapmm42rjmdo36uhxpygo2g5zvly.ipfs.cf-ipfs.com/) to access and play the **GAME**
+
 
 ## The Problem
 
