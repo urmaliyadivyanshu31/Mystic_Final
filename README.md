@@ -68,6 +68,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## Author
 
 - **Divyanshu Urmaliya**
+- **Abhineet Singh**
+- **Sumit Choudhary**
 
 ---
 
